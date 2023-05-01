@@ -1,0 +1,23 @@
+.card {
+	background-color: rgb(228, 239, 244);
+}
+
+#tBody tr {
+	background-image: linear-gradient(rgb(228, 239, 244), rgb(255, 255, 255));
+}
+
+.alert {
+	display: none;
+	padding: 5px;
+	margin: 10px;
+	width: 80%;
+	font-size: 18px;
+	border-radius: 5px;
+	text-align: center;
+}
+
+.alert-error {
+	background-color: #ffb2b2;
+	color: #6d0000;
+	border: 1px solid #6d0000;
+}
